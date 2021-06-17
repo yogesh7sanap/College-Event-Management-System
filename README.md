@@ -130,3 +130,53 @@ something useful for our college.
 The scope of the project is really wide as it can be used by various other colleges for handling 
 any event organized by an organizations . The code is simple and readable and written in a 
 systematic manner making it easier for developers to reuse the code.
+
+
+<h3>Snapshots of the application</h3>
+
+
+<h4>User Login</h4>
+
+![image](https://user-images.githubusercontent.com/60127449/122327794-18795100-cf4c-11eb-84b8-13befdf120e4.png)
+
+
+<h4>Organization Login</h4>
+
+![image](https://user-images.githubusercontent.com/60127449/122328354-21b6ed80-cf4d-11eb-9432-8693e230a07f.png)
+
+
+<h4>College Principal Login</h4>
+
+![image](https://user-images.githubusercontent.com/60127449/122328395-32fffa00-cf4d-11eb-8aa5-6a8b508c45b3.png)
+
+
+<h4>Edit</h4>
+
+![image](https://user-images.githubusercontent.com/60127449/122328432-44e19d00-cf4d-11eb-8712-668b2950936c.png)
+
+![image](https://user-images.githubusercontent.com/60127449/122328456-4d39d800-cf4d-11eb-936a-b8ceb9ff8e34.png)
+
+
+
+<h4>User Home Page</h4>
+
+![image](https://user-images.githubusercontent.com/60127449/122328477-5d51b780-cf4d-11eb-9c1a-32e0ff8ec840.png)
+
+
+<h4>Admin Home Page</h4>
+
+![image](https://user-images.githubusercontent.com/60127449/122328491-65a9f280-cf4d-11eb-90da-7b2c1bdfa5b1.png)
+
+
+<h4>Principle Home Page</h4>
+
+![Screenshot (2334)](https://user-images.githubusercontent.com/60127449/122328540-7e1a0d00-cf4d-11eb-8f83-52f484a27707.png)
+
+
+
+<h4>Error Message</h4>
+
+![image](https://user-images.githubusercontent.com/60127449/122328516-722e4b00-cf4d-11eb-98f3-80d6e5f4bf8c.png)
+
+
+
